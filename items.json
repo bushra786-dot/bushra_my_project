@@ -1,0 +1,289 @@
+{
+  "items": [
+    {
+      "id": "001",
+      "image": "image/tomato.jpg",
+      "company": "Agro Farm",
+      "item_name": "Tomato",
+      "original_price": 60,
+      "discount_price": 10, 
+      "current_price": 54.00,
+      "return_period": 3,
+      "delivery_date": "29-oct-2024",
+      "rating": {
+        "stars": 4.2,
+        "count": 120
+      }
+    },
+    {
+      "id": "002",
+      "image": "image/cucumber.webp",
+      "company": "Agro Farm",
+      "item_name": "Cucumber",
+      "original_price": 55,
+      "discount_price": 15, 
+      "current_price": 46.75,
+      "return_period": 3,
+      "delivery_date": "29-oct-2024",
+      "rating": {
+        "stars": 4.0,
+        "count": 98
+      }
+    },
+    {
+      "id": "003",
+      "image": "image/onion.jpg",
+      "company": "Agro Farm",
+      "item_name": "Onion",
+      "original_price": 120,
+      "discount_price": 12, 
+      "current_price": 105.60,
+      "return_period": 3,
+      "delivery_date": "29-oct-2024",
+      "rating": {
+        "stars": 4.1,
+        "count": 150
+      }
+    },
+    {
+      "id": "004",
+      "image": "image/red-potato.webp",
+      "company": "Agro Farm",
+      "item_name": "Potato",
+      "original_price": 40,
+      "discount_price": 20, 
+      "current_price": 32.00,
+      "return_period": 3,
+      "delivery_date": "29-oct-2024",
+      "rating": {
+        "stars": 4.3,
+        "count": 175
+      }
+    },
+    {
+      "id": "005",
+      "image": "image/lemon-desi.webp",
+      "company": "Agro Farm",
+      "item_name": "Lemon-Desi",
+      "original_price": 420,
+      "discount_price": 15, 
+      "current_price": 357.00,
+      "return_period": 3,
+      "delivery_date": "29-oct-2024",
+      "rating": {
+        "stars": 4.5,
+        "count": 88
+      }
+    },
+    {
+      "id": "006",
+      "image": "image/Coriander-Leaves.jpg",
+      "company": "Agro Farm",
+      "item_name": "Coriander Leaves",
+      "original_price": 75,
+      "discount_price": 13, 
+      "current_price": 65.25,
+      "return_period": 3,
+      "delivery_date": "29-oct-2024",
+      "rating": {
+        "stars": 4.7,
+        "count": 200
+      }
+    },
+    {
+      "id": "007",
+      "image": "image/broccoli.jpg",
+      "company": "Agro Farm",
+      "item_name": "Broccoli",
+      "original_price": 400,
+      "discount_price": 11, 
+      "current_price": 356.00,
+      "return_period": 3,
+      "delivery_date": "29-oct-2024",
+      "rating": {
+        "stars": 4.2,
+        "count": 67
+      }
+    },
+    {
+      "id": "008",
+      "image": "image/red-carrot.webp",
+      "company": "Agro Farm",
+      "item_name": "Red Carrot",
+      "original_price": 78,
+      "discount_price": 17, 
+      "current_price": 64.74,
+      "return_period": 3,
+      "delivery_date": "29-oct-2024",
+      "rating": {
+        "stars": 4.0,
+        "count": 112
+      }
+    },
+    {
+      "id": "009",
+      "image": "image/ginger.jpg",
+      "company": "Agro Farm",
+      "item_name": "Ginger",
+      "original_price": 420,
+      "discount_price": 15, 
+      "current_price": 357.00,
+      "return_period": 3,
+      "delivery_date": "29-oct-2024",
+      "rating": {
+        "stars": 4.6,
+        "count": 90
+      }
+    },
+    {
+      "id": "010",
+      "image": "image/green-chilli.webp",
+      "company": "Agro Farm",
+      "item_name": "Green Chilli",
+      "original_price": 75,
+      "discount_price": 13, 
+      "current_price": 65.25,
+      "return_period": 3,
+      "delivery_date": "29-oct-2024",
+      "rating": {
+        "stars": 4.3,
+        "count": 140
+      }
+    },
+    {
+      "id": "011",
+      "image": "image/mint-leaves.jpg",
+      "company": "Agro Farm",
+      "item_name": "Mint Leaves",
+      "original_price": 420,
+      "discount_price": 15, 
+      "current_price": 357.00,
+      "return_period": 3,
+      "delivery_date": "29-oct-2024",
+      "rating": {
+        "stars": 4.5,
+        "count": 65
+      }
+    },
+    {
+      "id": "012",
+      "image": "image/green-capsicum.webp",
+      "company": "Agro Farm",
+      "item_name": "Green Capsicum",
+      "original_price": 75,
+      "discount_price": 13, 
+      "current_price": 65.25,
+      "return_period": 3,
+      "delivery_date": "29-oct-2024",
+      "rating": {
+        "stars": 4.2,
+        "count": 110
+      }
+    },
+    {
+      "id": "013",
+      "image": "image/green-onion-ma.webp",
+      "company": "Agro Farm",
+      "item_name": "Green Onion",
+      "original_price": 76,
+      "discount_price": 15, 
+      "current_price": 64.60,
+      "return_period": 3,
+      "delivery_date": "29-oct-2024",
+      "rating": {
+        "stars": 4.4,
+        "count": 95
+      }
+    },
+    {
+      "id": "014",
+      "image": "image/beetroot.jpg",
+      "company": "Agro Farm",
+      "item_name": "Beetroot",
+      "original_price": 420,
+      "discount_price": 15, 
+      "current_price": 357.00,
+      "return_period": 3,
+      "delivery_date": "29-oct-2024",
+      "rating": {
+        "stars": 4.5,
+        "count": 72
+      }
+    },
+    {
+      "id": "015",
+      "image": "image/spinach.jpg",
+      "company": "Agro Farm",
+      "item_name": "Spinach",
+      "original_price": 78,
+      "discount_price": 17, 
+      "current_price": 64.74,
+      "return_period": 3,
+      "delivery_date": "29-oct-2024",
+      "rating": {
+        "stars": 4.7,
+        "count": 190
+      }
+    },
+    {
+      "id": "016",
+      "image": "image/ice-burg.webp",
+      "company": "Agro Farm",
+      "item_name": "Ice-Burg",
+      "original_price": 420,
+      "discount_price": 15, 
+      "current_price": 357.00,
+      "return_period": 3,
+      "delivery_date": "29-oct-2024",
+      "rating": {
+        "stars": 4.2,
+        "count": 55
+      }
+    },
+    {
+      "id": "017",
+      "image": "image/okra.jpg",
+      "company": "Agro Farm",
+      "item_name": "Okra (Bhindi)",
+      "original_price": 76,
+      "discount_price": 15, 
+      "current_price": 64.60,
+      "return_period": 3,
+      "delivery_date": "29-oct-2024",
+      "rating": {
+        "stars": 4.3,
+        "count": 120
+      }
+    },
+    {
+      "id": "018",
+      "image": "image/peas-green.jpg",
+      "company": "Agro Farm",
+      "item_name": "Peas Green",
+      "original_price": 400,
+      "discount_price": 11, 
+      "current_price": 356.00,
+      "return_period": 3,
+      "delivery_date": "29-oct-2024",
+      "rating": {
+        "stars": 4.1,
+        "count": 60
+      }
+    },
+    {
+      "id": "019",
+      "image": "image/cauliflower.jpg",
+      "company": "Agro Farm",
+      "item_name": "Cauliflower",
+      "original_price": 420,
+      "discount_price": 15, 
+      "current_price": 357.00,
+      "return_period": 3,
+      "delivery_date": "29-oct-2024",
+      "rating": {
+        "stars": 4.3,
+        "count": 95
+      }
+    }
+  ]
+}
